@@ -26,6 +26,11 @@ I'm a doctoral student at **Nagoya University** (GSID), Japan, and a Research As
 ### 📝 Latest from regio28.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Mapping Food Security in Indonesia: Geographic Clusters and Regional Disparities](https://regio28.com/2026/01/18/mapping-food-security-in-indonesia-geographic-clusters-and-regional-disparities/)
+- [Exploratory Spatial Data Analysis: STATA Application &lpar;1&rpar;](https://regio28.com/2026/01/03/exploratory-spatial-data-analysis-stata-application-1/)
+- [LISA Map Poverty of Central Java- Indonesia, 2022](https://regio28.com/2026/01/01/436/)
+- [Melihat Perkembangan Arus Mudik Melalui Emisi](https://regio28.com/2025/12/31/melihat-perkembangan-arus-mudik-melalui-emisi/)
+- [Analisis Spasial dengan GeoDa : Download GeoDa](https://regio28.com/2025/12/31/analisis-spasial-dengan-geoda-download-geoda/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
