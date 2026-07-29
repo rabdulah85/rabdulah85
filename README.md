@@ -26,11 +26,11 @@ I'm a doctoral student at **Nagoya University** (GSID), Japan, and a Research As
 ### 📝 Latest from regio28.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Too Crowded to Grow? Menakar Koperasi Desa dari Cahaya Malam](https://regio28.com/2026/07/29/too-crowded-to-grow-koperasi-desa/)
+- [Kopdes Merah Putih: Bahaya Satu Resep untuk 80.000 Desa yang Tidak Sama](https://regio28.com/2026/07/29/kopdes-merah-putih-satu-resep-80000-desa/)
+- [Dana Desa dari Luar Angkasa: Kebijakannya Berhasil, Tapi Geografi Belum Kalah](https://regio28.com/2026/07/29/dana-desa-dari-luar-angkasa/)
 - [Tracking Indonesia’s Eid Exodus from Space: What NO₂ Emissions Reveal About Mudik](https://regio28.com/2026/07/28/tracking-mudik-through-emissions/)
 - [Interactive Dashboard: Exploring Indonesia’s GDP](https://regio28.com/2026/07/18/interactive-dashboard-exploring-indonesias-gdp/)
-- [Olah Data SUSENAS &amp; PODES dengan R: Materi Lengkap Pelatihan](https://regio28.com/2026/07/11/recap-pelatihan-r-untuk-data-susenas-podes-di-feb-universitas-negeri-semarang/)
-- [Mapping Food Security in Indonesia: Geographic Clusters and Regional Disparities](https://regio28.com/2026/01/18/mapping-food-security-in-indonesia-geographic-clusters-and-regional-disparities/)
-- [Exploratory Spatial Data Analysis: STATA Application &lpar;1&rpar;](https://regio28.com/2026/01/03/exploratory-spatial-data-analysis-stata-application-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
