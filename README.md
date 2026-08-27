@@ -26,11 +26,11 @@ I'm a doctoral student at **Nagoya University** (GSID), Japan, and a Research As
 ### 📝 Latest from regio28.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiga Hari di Tepi Danau Biwa: Pertanyaan dari Sebuah Kota Kecil Jepang](https://regio28.com/2026/08/27/seeps-camp-2026-takashima/)
+- [Three Days by Lake Biwa: What a Small Japanese Town Asked of Me](https://regio28.com/2026/08/27/seeps-camp-2026-takashima-en/)
 - [Too Crowded to Grow? Menakar Koperasi Desa dari Cahaya Malam](https://regio28.com/2026/07/29/too-crowded-to-grow-koperasi-desa/)
 - [Kopdes Merah Putih: Bahaya Satu Resep untuk 80.000 Desa yang Tidak Sama](https://regio28.com/2026/07/29/kopdes-merah-putih-satu-resep-80000-desa/)
 - [Dana Desa dari Luar Angkasa: Kebijakannya Berhasil, Tapi Geografi Belum Kalah](https://regio28.com/2026/07/29/dana-desa-dari-luar-angkasa/)
-- [Tracking Indonesia’s Eid Exodus from Space: What NO₂ Emissions Reveal About Mudik](https://regio28.com/2026/07/28/tracking-mudik-through-emissions/)
-- [Interactive Dashboard: Exploring Indonesia’s GDP](https://regio28.com/2026/07/18/interactive-dashboard-exploring-indonesias-gdp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
